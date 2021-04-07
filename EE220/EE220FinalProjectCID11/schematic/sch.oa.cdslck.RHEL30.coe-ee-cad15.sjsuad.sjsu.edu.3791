@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      014564316
+HostName                       coe-ee-cad15.sjsuad.sjsu.edu
+ProcessIdentifier              3791
+ProcessCreationTime_UTC        1588114920
+ProcessCreationTime_Readable   Tue Apr 28 16:02:00 2020 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/014564316/cell_45/EE220/EE220FinalProjectCID11/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Apr 28 17:10:30 2020 PDT
